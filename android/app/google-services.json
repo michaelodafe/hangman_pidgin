@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "265341424658",
+    "firebase_url": "https://faltadmobads.firebaseio.com",
+    "project_id": "faltadmobads",
+    "storage_bucket": "faltadmobads.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265341424658:android:04abf056657f67a3a574cb",
+        "android_client_info": {
+          "package_name": "ng.falt.hangman_pidgin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265341424658-7j7r8hi8s0gq7moevhkfanaamo6mdsmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB51oRptfoug6EF3hln4mf9CYEh9REmwmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265341424658-7j7r8hi8s0gq7moevhkfanaamo6mdsmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
